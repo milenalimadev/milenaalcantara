@@ -17,7 +17,7 @@
   <img align="center" alt="Mi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mi-SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Mi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mi-django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+  <img align="center" alt="Mi-django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django-plain/django-plain-original.svg">
   <img align="right" alt="mi" height="120em" src="https://media.giphy.com/media/FNXWVL2JzYN49eRr0z/giphy.gif">
 </div>
   
