@@ -1,7 +1,7 @@
 ## Oiii! Eu sou a Milena Alcântara
 
 - 🔭 Atualmente trabalho com front-end
-- 🌱 Estudando ReactJS
+- 🌱 Estudando desenvolvimento web, com foco em ReactJS
 - 😄 Pronomes: ela/dela
 
 <div>
