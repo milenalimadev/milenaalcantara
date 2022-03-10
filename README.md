@@ -1,7 +1,7 @@
 ## Oiii! Eu sou a Milena Alcântara
 
-- 🔭 Atualmente trabalho com front-end
-- 🌱 Estudando desenvolvimento web, com foco em ReactJS
+- 🔭 Atualmente trabalho com backend em python - Django
+- 🌱 Estudando swift - Apple Developer Academy
 - 😄 Pronomes: ela/dela
 
 <div>
