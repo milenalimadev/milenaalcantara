@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Milena Alcântara
+## Oiii! Eu sou a Milena :) Bem-vindxs ao meu github
 
 - 🔭 Atualmente trabalho com backend em python - Django
 - 🌱 Estudando swift - Apple Developer Academy
