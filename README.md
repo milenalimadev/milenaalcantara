@@ -9,20 +9,20 @@
   <img height="166em" src="https://github-readme-stats.vercel.app/api?username=milenaalcantara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenaalcantara&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
+<!-- <div style="display: inline_block"><br>
   <img align="center" alt="Mi-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
 <!--   <img align="center" alt="Mi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
-  <img align="center" alt="Mi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Mi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Mi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mi-SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Mi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<!--   <img align="center" alt="Mi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
+<!--   <img align="center" alt="Mi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
+<!--   <img align="center" alt="Mi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -->
+<!--   <img align="center" alt="Mi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
+<!--   <img align="center" alt="Mi-SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> -->
+<!--   <img align="center" alt="Mi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 <!--   <img align="center" alt="Mi-django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"> -->
 <!--   <img align="center" alt="Mi-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> -->
-    <img align="center" alt="Mi-swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/swift-original.svg">
-  <img align="right" alt="mi" height="120em" src="https://media.giphy.com/media/FNXWVL2JzYN49eRr0z/giphy.gif">
-</div>
+<!--     <img align="center" alt="Mi-swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/swift-original.svg"> -->
+<!--   <img align="right" alt="mi" height="120em" src="https://media.giphy.com/media/FNXWVL2JzYN49eRr0z/giphy.gif"> -->
+</div> -->
   
   ##
  
