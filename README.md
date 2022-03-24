@@ -23,7 +23,7 @@
 <!--     <img align="center" alt="Mi-swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/swift-original.svg"> -->
   <img align="right" alt="mi" height="120em" src="https://media.giphy.com/media/FNXWVL2JzYN49eRr0z/giphy.gif">
 </div> 
-  ##
+  
  
 <div> 
   <a href="https:https://www.linkedin.com/in/milena-alc%C3%A2ntara-b098341ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
