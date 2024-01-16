@@ -1,7 +1,8 @@
 ## Oiii! Eu sou a Milena :) Bem-vindxs ao meu github
 
-- 🔭 Atualmente trabalho com backend em python - Django
-- 🌱 Estudando swift - Apple Developer Academy
+- 🎓 Alumni da Apple Developer Academy
+- 🔭 Atualmente trabalho com desenvolvimento para plataformas Apple.
+- 🎒 Já me aventurei como desenvolvedora backend em python (Django) e frontend em TypeScript (React) 
 - 😄 Pronomes: ela/dela
 
 <div>
