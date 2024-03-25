@@ -1,8 +1,7 @@
 ## Oiii! Eu sou a Milena :) Bem-vindxs ao meu github
 
 - 🎓 Alumni da Apple Developer Academy
-- 🔭 Atualmente trabalho com desenvolvimento para plataformas Apple.
-- 🎒 Já me aventurei como desenvolvedora backend em python (Django) e frontend em TypeScript (React) 
+- 🎒 Desenvolvedora Web e Mobile
 - 😄 Pronomes: ela/dela
 
 <div>
