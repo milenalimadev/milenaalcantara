@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Milena :) Bem-vindxs ao meu github
+## Hey, bem-vindos!!!
 
 - 🎓 Alumni da Apple Developer Academy
 - 🎒 Desenvolvedora Web e Mobile
