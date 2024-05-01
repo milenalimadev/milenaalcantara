@@ -1,11 +1,11 @@
 <h1>Olá, sou a Milena Alcântara 🌸</h1>
 <h3>Desenvolvedora Web e Mobile 👩🏻‍💻</h3>
 
-- 🔭 Atualmente atuo como Desenvolvedora Frontend Jr
+- 🔭 Atualmente atuo como Desenvolvedora Frontend Jr 
 - 🎓 Estou cursando Bacharelado em Ciência da Computação (7/8)
 - 🎒 Alumni do Apple Developer Academy
 - 💻 Sou especialista em desenvolvimento iOS
-- 🌱 Estou estudando Java e Kotlin, para me especializar ainda mais no desenvolvimento mobile.
+- 🌱 Estou estudando Java e Kotlin
 - 👩 Meus pronomes: Ela/Dela
 
 <br>
