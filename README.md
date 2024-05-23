@@ -5,7 +5,6 @@
 - 🎓 Estou cursando Bacharelado em Ciência da Computação (7/8)
 - 🎒 Alumni do Apple Developer Academy
 - 💻 Sou especialista em desenvolvimento iOS
-- 🌱 Estou estudando Java e Kotlin
 - 👩 Meus pronomes: Ela/Dela
 
 <br>
